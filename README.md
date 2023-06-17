@@ -48,8 +48,5 @@ Sr Software Engineer
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/dragon-220"><img src="https://camo.githubusercontent.com/8bdee26f58fc1f462815fd15cdc7a0bbe4dfab69e55640b4f435fe769356a158/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d576f62697461447265616d267468656d653d67727576626f78267469746c653d466f6c6c6f776572732c436f6d6d6974732c53746172732c5265706f7369746f726965732c50756c6c526571756573742c4973737565732c4f7267616e697a6174696f6e73"/></a>
 
-<a href="http://www.github.com/dragon-220"><img src="https://github-readme-stats.vercel.app/api?username=dragon-220&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dragon-220's GitHub stats" /></a>
-
-<a href="http://www.github.com/dragon-220"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dragon-220&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
