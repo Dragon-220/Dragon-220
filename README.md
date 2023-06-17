@@ -1,7 +1,11 @@
 Sr Software Engineer
 --------------------
 
-💻I'm working as Sr Software Engineer. ❤️Interesting in everything Artificial Intelligence, Indeed Full Stack Development ⏳ Exploring Google Cloud & Microsoft Azure 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge" ✍️ 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 tech-stack.tools 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.
+💻I'm working as Sr Software Engineer.
+❤️Interesting in everything Artificial Intelligence, Indeed Full Stack Development 
+⏳ Exploring Google Cloud & Microsoft Azure 
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge" 
+✍️ 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 tech-stack.tools 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.
 
 ### Skills
 
