@@ -1,8 +1,5 @@
 Sr Software Engineer
 --------------------
-<p align="center">
-  <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 --------------------
 ### 👨🏻‍💻 About Me:
@@ -44,6 +41,14 @@ Sr Software Engineer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+--------------------
+## Github's Stats
+--------------------
+
+<p align="center">
+  <img src="https://github.com/dragon-220/dragon-220/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 --------------------
