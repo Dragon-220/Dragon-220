@@ -18,7 +18,7 @@ Sr Software Engineer
 --------------------
 
 <p align="center">
-  <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
