@@ -21,11 +21,12 @@ Sr Software Engineer
   <img src="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragon-220/dragon-220/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragon-220/dragon-220/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dragon-220/dragon-220/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/dragon-220#gh-light-mode-only"><img src="https://raw.githubusercontent.com/dragon-220/dragon-220/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/dragon-220#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/dragon-220/dragon-220/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+
 
 
 
