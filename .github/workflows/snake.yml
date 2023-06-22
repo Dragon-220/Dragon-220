@@ -44,5 +44,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GIT_COMMITTER_NAME: "dragonslayer"
-          GIT_COMMITTER_EMAIL:  "dragonslayer.feb20@gmail.com"
+
