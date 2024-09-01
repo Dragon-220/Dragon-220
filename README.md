@@ -1,9 +1,5 @@
 Sr Software Engineer
 --------------------
-<p align="center">
-  <img src="jpg/minion.jpg"></center>
-</p>
---------------------
 ### 👨🏻‍💻 About Me:
 --------------------
 
